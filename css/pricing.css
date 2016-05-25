@@ -211,3 +211,9 @@ body {
 }
 
 }
+
+.navbar-brand {
+	background-color: #f7814d;
+	color: #fff;
+	font-size: 1.2em;
+}
