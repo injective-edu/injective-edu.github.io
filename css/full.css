@@ -11,7 +11,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
-    background: url('http://pad3.whstatic.com/images/thumb/b/b4/Determine-if-a-Function-Is-One-to-One-Step-11.jpg/900px-Determine-if-a-Function-Is-One-to-One-Step-11.jpg') no-repeat center center fixed;
+   /* background: url('http://pad3.whstatic.com/images/thumb/b/b4/Determine-if-a-Function-Is-One-to-One-Step-11.jpg/900px-Determine-if-a-Function-Is-One-to-One-Step-11.jpg') no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
