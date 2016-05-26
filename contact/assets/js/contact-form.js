@@ -68,7 +68,7 @@
       //send the feedback e-mail
       $.ajax({
         type: "POST",
-        url: "library/sendmail.php",
+        url: "http://5.196.11.6/injective/injective-edu.github.io-master/contact/library/sendmail.php",
         data: $form.serialize(),
         success: function(data) {
           contactFormUtils.addAjaxMessage(data.message, false);
